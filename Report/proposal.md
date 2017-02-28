@@ -1,11 +1,11 @@
-#Proposal
-##Synopsis:
+# Proposal
+## Synopsis:
 
-##Objective
+## Objective:
 
-##Data Description
+## Data Description:
 
-##Approach: 
+## Approach: 
  * The set of 25 news for each day needs to be transformed to a format suitable for performing textual analysis and applying predictive model. 
  * We will be using both "BOW" and "n-gram" technique to model the data and perform a comparative performance analysis. 
  
@@ -23,4 +23,4 @@
 
  4: Apply sentiment analysis to extract the positive or negative sentiment of the combined docs per day and use this along with lda topics above to see if there are any improvements 
  
-##References
+## References:
